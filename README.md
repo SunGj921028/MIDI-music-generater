@@ -1,5 +1,5 @@
 # MIDI-音樂產生器
-***
+
 ### Environment
 1. Linux or WSL
 
